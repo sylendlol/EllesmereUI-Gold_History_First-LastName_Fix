@@ -1,0 +1,12 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
+## Title: EllesmereUI |cff0cd29fGold Names|r
+## Notes: WoW Forever: gold tracking keyed by first AND last name, so characters that share a first name no longer overwrite each other. Name format: /goldnames first | last | full
+## Category: |cff0cd29fEllesmere|rUI
+## Group: EllesmereUI
+## Author: Custom
+## Version: 1.0.0
+## Dependencies: EllesmereUI
+## SavedVariables: EllesmereUI_GoldNamesDB
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+GoldNames.lua
